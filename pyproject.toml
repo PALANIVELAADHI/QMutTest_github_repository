@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qmutest"
+version = "1.0.0"
+description = "Noise-aware mutation testing of gate-level quantum circuits (Qiskit)"
+requires-python = ">=3.10"
+dependencies = ["qiskit>=2.0", "qiskit-aer>=0.17", "numpy", "scipy", "pandas", "matplotlib", "pylatexenc"]
+license = { text = "MIT" }
+
+[tool.setuptools.packages.find]
+where = ["src"]

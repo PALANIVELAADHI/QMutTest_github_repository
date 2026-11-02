@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "QMutTest: noise-aware mutation testing of gate-level quantum circuits"
+version: 1.0.0
+date-released: 2026-11-02
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given name]"
+repository-code: "https://github.com/[user]/qmutest"
+license: MIT

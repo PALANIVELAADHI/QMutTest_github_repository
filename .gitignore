@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/main_docx.tex
+paper/pg-*.png
+*.egg-info/
