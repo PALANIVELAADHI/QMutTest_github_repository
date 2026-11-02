@@ -1,7 +1,7 @@
 # QMutTest — noise-aware mutation testing of quantum circuits
 
 Replication package for the paper **"Noise-Aware Mutation Testing of Quantum Circuits: Statistical Oracles,
-Equivalent Mutants and the Detectability of Subtle Faults"** (`paper/`).
+Equivalent Mutants and the Detectability of Subtle Faults"** (`By Dr.R.Palanivel`).
 
 * Six subject programs (GHZ-4, Adder-2, Draper-3, Grover-3, BV-3, Teleport), 782 mutants, six operators
   (GI, GD, GR, CS, AP, SR), exact equivalent-mutant detection.
@@ -31,6 +31,4 @@ paper/             main.tex · references.bib · main.pdf · main.docx · build.
 tests/             pytest unit tests
 ```
 
-## Notes
-* Placeholders `[Author Name]`, `[user]` in the paper, LICENSE and CITATION.cff must be replaced before submission.
-* See `REFERENCES.md` for the verification status of every cited paper and for the guest editors' related work.
+
